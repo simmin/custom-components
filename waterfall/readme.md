@@ -1,0 +1,23 @@
+## 三种方式实现瀑布流布局
+
+### 三种方式
+
+1. 原生JavaScript
+2. 基于jQuery
+3. CSS3 多栏布局
+
+### 文件构成
+
+HTML文件：index.html
+CSS文件：waterfall.css、waterfall.css2
+JS文件：waterfall.js、jquery-3.2.0.min.js 、 jquery-waterfall.js
+
+### 使用方式
+
+方式一：waterfall.css + waterfall.js
+方式二：waterfall.css + jquery-3.2.0.min.js + jquery-waterfall.js
+方式三：waterfall.css2
+
+### 备注
+
+暂未封装成jQuery的插件
